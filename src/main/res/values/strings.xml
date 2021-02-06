@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Covid19Finderv1.7</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="menu_registroCovid">Registro de paciente</string>
+    <string name="menu_registro_familiar">Registro familiares</string>
+    <string name="menu_map">Mapa de contagios</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_regContagios">Registro de Contagios</string>
+    <string name="menu_registro">Registro aquí tus datos</string>
+
+    <string name="f_inicio_sintomas">Fecha de inicio de síntomas: </string>
+    <string name="prueba_PCR">Tiene prueba PCR confirmado? </string>
+    <string name="sexo">Sexo: </string>
+    <string name="edad">Edad: </string>
+    <string name="condiciones">Tiene alguna condición crónica? </string>
+    <string name="discapacidad">Tiene Discapacidad? </string>
+    <string name="embarazo_lactancia">Esta embarazada o dando de lactar? </string>
+
+    <string name="dt_f_inicio_sintomas"></string>
+    <string name="resp_si">Si </string>
+    <string name="resp_no">No </string>
+    <string name="sexo_Masculino">Masculino </string>
+    <string name="sexo_Femenino">Femenino </string>
+    <string name="bt_registro">Registrar</string>
+    <string name="title_activity_nav__home">Nav_Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
